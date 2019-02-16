@@ -1,7 +1,7 @@
 # make_ext4fs
 ROM editor tools
 
-一、linux环境解包打包
+linux环境解包打包
 
 环境要求：Ubuntu
 此处以system.img和userdata.img打包为例,基于谷歌源码编译的工具使用方法和命令。
